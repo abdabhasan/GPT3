@@ -7,9 +7,13 @@ This project is a React-based website for GPT-3 OpenAI. The website has several 
 To run this project, clone the repository from GitHub and navigate to the project directory. Run `npm install` to install the required dependencies,
 Then run `npm start` to start the development server.
 
+### GitHub Pages
+
+The website is also available on GitHub Pages: https://abdabhasan.github.io/GPT3.
+
 ### Usage
 
-The- website has the following sections:
+The website has the following sections:
 
 - Navbar: The Navbar contains links to different sections of the website.
 - Header: The Header contains the main message and a form to get started.
